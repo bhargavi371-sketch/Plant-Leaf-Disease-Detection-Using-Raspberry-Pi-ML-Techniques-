@@ -1,6 +1,9 @@
 # Plant-Leaf-Disease-Detection-Using-Raspberry-Pi-ML-Techniques-
 A smart plant leaf disease detection system using Raspberry Pi and machine learning for early and accurate diagnosis
 
+![WhatsApp Image 2026-04-14 at 12 19 33 AM](https://github.com/user-attachments/assets/5c7b2357-1d4e-4ba0-9bdb-767e53d8e63d)
+
+
 # 🌱 Plant Leaf Disease Detection using Raspberry Pi & ML-Techniques
 ## 📌 Description
 
@@ -58,7 +61,8 @@ After downloading:
 ## 🖼️ Output / Working Demo
 This section showcases the real-time working of the plant leaf disease detection system using Raspberry Pi. The system captures leaf images through a camera module, processes them using the trained machine learning model, and displays the detected disease results.
 
-[output img1](https://github.com/user-attachments/assets/69e68c82-6f25-4145-8e35-dda6dff129ec)
+![output img1](https://github.com/user-attachments/assets/4f399dc5-9f07-4360-af8c-c71f1081402f)
+
 ![output img2](https://github.com/user-attachments/assets/591c2951-cd63-447e-860d-4d88acd11d86)
 
 
